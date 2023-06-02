@@ -17,3 +17,7 @@
 - *material implication*: CommingSoon
 
 **Note**: you can use `';'` as a delemeter to write more than one expresion (ex: `'A ⨁ B ; C . D'`)
+
+## Contributing
+
+All contributions are welcome.
